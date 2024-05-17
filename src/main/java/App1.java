@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class App1 {
+package com.vivekt;
+
+public class App1 {
+    public static void main(String[] args) {
+        System.out.println("app1 running..");
+    }
 }
